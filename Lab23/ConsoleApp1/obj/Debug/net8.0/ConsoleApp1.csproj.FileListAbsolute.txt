@@ -1,0 +1,28 @@
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\Lab23\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\C# Program\Lab23\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\C# Program\Lab23\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\C# Program\Lab23\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\C# Program\Lab23\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\C# Program\Lab23\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\C# Program\Lab23\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
