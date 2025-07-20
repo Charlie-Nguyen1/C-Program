@@ -1,0 +1,16 @@
+301,Isabella Rogers,02/15/2012,Female,Freestyle,50,00:33.80
+302,Mia Bennett,06/01/2014,Female,Breaststroke,100,01:29.70,Freestyle,50,00:37.50
+303,Sofia Perry,07/04/2013,Female,Freestyle,50,00:34.20
+304,Amelia Brooks,09/21/2015,Female,Breaststroke,100,01:28.80
+305,Jack Peterson,03/25/2012,Male,Freestyle,50,00:32.30
+306,Owen Murphy,11/12/2013,Male,Breaststroke,100,01:23.00,Freestyle,50,00:30.30
+307,Ethan Powell,06/18/2015,Male,Freestyle,50,00:35.10
+308,Aiden Foster,10/30/2014,Male,Breaststroke,100,01:26.10,Freestyle,50,00:31.50
+309,Lila Morgan,05/29/2014,Female,Freestyle,50,00:37.00
+310,Emma Castillo,08/03/2013,Female,Breaststroke,100,01:29.40
+311,Natalie Gomez,11/20/2012,Female,Freestyle,50,00:33.40,Breaststroke,100,01:25.20
+312,Hannah Scott,02/28/2015,Female,Freestyle,50,00:36.90
+313,William Cruz,04/07/2013,Male,Freestyle,50,00:31.70,Breaststroke,100,01:22.90
+314,Andrew Stevens,09/14/2012,Male,Breaststroke,100,01:23.90
+315,Luke Harris,07/16/2014,Male,Freestyle,50,00:33.00
+316,Benjamin Gray,11/20/2015,Male,Breaststroke,100,01:28.50

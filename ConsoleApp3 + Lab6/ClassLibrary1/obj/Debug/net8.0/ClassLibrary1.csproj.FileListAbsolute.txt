@@ -1,0 +1,22 @@
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

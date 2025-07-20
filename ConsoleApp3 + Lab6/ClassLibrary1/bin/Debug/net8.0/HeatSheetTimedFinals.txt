@@ -1,0 +1,80 @@
+Event:   Event #1: 50m Freestyle (Male), Age Group: 10
+    #   ID   Name               Sex      Age Club          Seed Time
+    [No entries]
+
+  Event #1: 50m Freestyle (Male), Age Group: 10
+
+    #   ID   Name               Sex      Age Club          Seed Time
+    1    106 Samuel Baker       Male       0 ACME         00:31.90
+    2    213 Jacob Foster       Male       0 NYAC         00:30.90
+    3    208 Dylan Parker       Male       0 NYAC         00:31.40
+    4    206 Connor Walker      Male       0 NYAC         00:32.10
+    5    205 Ryan Lewis         Male       0 NYAC         00:30.60
+    6    315 Luke Harris        Male       0 CCSC         00:33.00
+    7    313 William Cruz       Male       0 CCSC         00:31.70
+    8    214 James Carter       Male       0 NYAC         00:32.00
+    9    308 Aiden Foster       Male       0 CCSC         00:31.50
+    10   306 Owen Murphy        Male       0 CCSC         00:30.30
+    11   305 Jack Peterson      Male       0 CCSC         00:32.30
+    12   115 Henry Davis        Male       0 ACME         00:33.10
+    13   113 Jonathan Perez     Male       0 ACME         00:31.20
+    14   108 Thomas Evans       Male       0 ACME         00:32.40
+    15   107 Andrew Adams       Male       0 ACME         00:34.00
+    16   307 Ethan Powell       Male       0 CCSC         00:35.10
+    17   216 Owen Fisher        Male       0 NYAC         00:31.10
+Event:   Event #1: 50m Freestyle (Female), Age Group: 10
+    #   ID   Name               Sex      Age Club          Seed Time
+    [No entries]
+
+  Event #1: 50m Freestyle (Female), Age Group: 10
+
+    #   ID   Name               Sex      Age Club          Seed Time
+    1    101 Sarah Collins      Female     0 ACME         00:35.20
+    2    209 Sophie Harris      Female     0 NYAC         00:36.70
+    3    204 Madison Turner     Female     0 NYAC         00:32.90
+    4    202 Olivia Johnson     Female     0 NYAC         00:35.60
+    5    201 Emma Wright        Female     0 NYAC         00:36.10
+    6    312 Hannah Scott       Female     0 CCSC         00:36.90
+    7    311 Natalie Gomez      Female     0 CCSC         00:33.40
+    8    309 Lila Morgan        Female     0 CCSC         00:37.00
+    9    211 Mia Reynolds       Female     0 NYAC         00:33.30
+    10   303 Sofia Perry        Female     0 CCSC         00:34.20
+    11   301 Isabella Rogers    Female     0 CCSC         00:33.80
+    12   112 Ella Moore         Female     0 ACME         00:36.80
+    13   111 Anna Hughes        Female     0 ACME         00:33.20
+    14   109 Lauren King        Female     0 ACME         00:36.00
+    15   104 Zoe Morris         Female     0 ACME         00:36.50
+    16   103 Natalie Smith      Female     0 ACME         00:34.10
+    17   102 Lily Taylor        Female     0 ACME         00:33.80
+    18   302 Mia Bennett        Female     0 CCSC         00:37.50
+    19   212 Ella Thompson      Female     0 NYAC         00:33.90
+Event:   Event #1: 50m Freestyle (Male), Age Group: 11
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Female), Age Group: 11
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Male), Age Group: 13
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Female), Age Group: 13
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Male), Age Group: 10
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Female), Age Group: 10
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Male), Age Group: 11
+    #   ID   Name               Sex      Age Club          Seed Time
+
+[[No swimEntries]]
+Event:   Event #1: 50m Freestyle (Female), Age Group: 11
+    #   ID   Name               S

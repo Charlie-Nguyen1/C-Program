@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "txyfc5TnA2E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive\\Desktop\\Test my level\\ConsoleApp3 + Lab6\\ConsoleApp3 + Lab6\\ConsoleApp3 + Lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\system.io.pipelines\\9.0.7\\system.io.pipelines.9.0.7.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.text.encodings.web\\9.0.7\\system.text.encodings.web.9.0.7.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

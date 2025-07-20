@@ -1,0 +1,44 @@
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.exe
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.deps.json
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.pdb
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleA.A873F9BE.Up2Date
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\refint\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.pdb
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ref\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ACER\OneDrive\Desktop\CENTENNIAL COLLEGE\COMP123-PROGRAMMING2\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.exe
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.deps.json
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ConsoleApp3 + Lab6.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleA.A873F9BE.Up2Date
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\refint\ConsoleApp3 + Lab6.dll
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.pdb
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ConsoleApp3 + Lab6.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Test my level\ConsoleApp3 + Lab6\ConsoleApp3 + Lab6\obj\Debug\net8.0\ref\ConsoleApp3 + Lab6.dll

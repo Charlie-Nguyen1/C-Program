@@ -1,0 +1,16 @@
+101,Sarah Collins,06/01/2014,Female,Freestyle,50,00:35.20,Breaststroke,100,01:27.50
+102,Lily Taylor,09/21/2013,Female,Freestyle,50,00:33.80
+103,Natalie Smith,02/15/2012,Female,Breaststroke,100,01:26.10,Freestyle,50,00:34.10
+104,Zoe Morris,12/08/2015,Female,Freestyle,50,00:36.50
+105,Daniel Green,07/04/2013,Male,Breaststroke,100,01:22.10
+106,Samuel Baker,10/30/2014,Male,Freestyle,50,00:31.90,Breaststroke,100,01:23.80
+107,Andrew Adams,03/25/2015,Male,Freestyle,50,00:34.00
+108,Thomas Evans,06/18/2012,Male,Breaststroke,100,01:21.40,Freestyle,50,00:32.40,Backstroke,100,01:30.20
+109,Lauren King,11/12/2014,Female,Freestyle,50,00:36.00
+110,Chloe Rivera,05/29/2013,Female,Breaststroke,100,01:28.20
+111,Anna Hughes,08/03/2012,Female,Freestyle,50,00:33.20,Breaststroke,100,01:25.90
+112,Ella Moore,09/14/2015,Female,Freestyle,50,00:36.80
+113,Jonathan Perez,04/07/2013,Male,Freestyle,50,00:31.20,Breaststroke,100,01:21.90
+114,Mark Sullivan,11/20/2012,Male,Breaststroke,100,01:24.10
+115,Henry Davis,02/28/2014,Male,Freestyle,50,00:33.10
+116,Lucas Wright,07/16/2015,Male,Breaststroke,100,01:29.00

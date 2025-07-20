@@ -1,0 +1,139 @@
+Event #1 Male 10 50m Freestyle
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 2
+   1 Ryan Lewis            10 NYAC       00:30.60
+   2 Ethan Powell           9 CCSC       00:35.10
+   3 Aiden Foster          10 CCSC       00:31.50
+   4 Luke Harris           10 CCSC       00:33.00
+   5 Samuel Baker          10 ACME       00:31.90
+   6 Jacob Foster          10 NYAC       00:30.90
+
+Heat#2 of 2
+   5 Andrew Adams          10 ACME       00:34.00
+
+
+
+Event #2 Female 10 50m Freestyle
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 1
+   1 Zoe Morris             9 ACME       00:36.50
+   2 Hannah Scott          10 CCSC       00:36.90
+   3 Lauren King           10 ACME       00:36.00
+   4 Olivia Johnson         9 NYAC       00:35.60
+   5 Ella Moore             9 ACME       00:36.80
+
+
+
+Event #3 Male 11 50m Freestyle
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 2
+   1 Owen Fisher           11 NYAC       00:31.10
+   2 William Cruz          12 CCSC       00:31.70
+   3 Owen Murphy           11 CCSC       00:30.30
+   4 Thomas Evans          12 ACME       00:32.40
+   5 Henry Davis           11 ACME       00:33.10
+   6 James Carter          12 NYAC       00:32.00
+
+Heat#2 of 2
+   3 Dylan Parker          11 NYAC       00:31.40
+   6 Jonathan Perez        12 ACME       00:31.20
+
+
+
+Event #4 Female 11 50m Freestyle
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 2
+   1 Lila Morgan           11 CCSC       00:37.00
+   2 Sarah Collins         11 ACME       00:35.20
+   3 Ella Thompson         12 NYAC       00:33.90
+   4 Sofia Perry           11 CCSC       00:34.20
+   5 Mia Bennett           11 CCSC       00:37.50
+   6 Emma Wright           11 NYAC       00:36.10
+
+Heat#2 of 2
+   1 Madison Turner        11 NYAC       00:32.90
+   2 Mia Reynolds          12 NYAC       00:33.30
+   3 Natalie Gomez         12 CCSC       00:33.40
+   4 Sophie Harris         11 NYAC       00:36.70
+   5 Lily Taylor           11 ACME       00:33.80
+   6 Anna Hughes           12 ACME       00:33.20
+
+
+
+Event #5 Male 13 50m Freestyle
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 1
+   4 Connor Walker         13 NYAC       00:32.10
+   5 Jack Peterson         13 CCSC       00:32.30
+
+
+
+Event #6 Female 13 50m Freestyle
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 1
+   3 Isabella Rogers       13 CCSC       00:33.80
+   4 Natalie Smith         13 ACME       00:34.10
+
+
+
+Event #7 Mixed 10 100m Breaststroke
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 2
+   1 Benjamin Gray          9 CCSC       01:28.50
+   2 Ryan Lewis            10 NYAC       01:24.20
+   3 Jacob Foster          10 NYAC       01:24.90
+   4 Aiden Foster          10 CCSC       01:26.10
+   5 Liam Carter            9 NYAC       01:27.50
+   6 Lucas Wright           9 ACME       01:29.00
+
+Heat#2 of 2
+   1 Samuel Baker          10 ACME       01:23.80
+   3 Isabelle Martinez      9 NYAC       01:28.00
+   4 Amelia Brooks          9 CCSC       01:28.80
+   5 Noah Ramirez          10 NYAC       01:27.10
+
+
+
+Event #8 Mixed 11 100m Breaststroke
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 3
+   1 Mia Reynolds          12 NYAC       01:25.50
+   2 Mia Bennett           11 CCSC       01:29.70
+   3 Chloe Rivera          12 ACME       01:28.20
+   4 William Cruz          12 CCSC       01:22.90
+   5 Emma Wright           11 NYAC       01:28.30
+   6 Sarah Collins         11 ACME       01:27.50
+
+Heat#2 of 3
+   1 Daniel Green          11 ACME       01:22.10
+   2 Jonathan Perez        12 ACME       01:21.90
+   3 Thomas Evans          12 ACME       01:21.40
+   4 Andrew Stevens        12 CCSC       01:23.90
+   5 Emma Castillo         11 CCSC       01:29.40
+   6 Natalie Gomez         12 CCSC       01:25.20
+
+Heat#3 of 3
+   2 Owen Murphy           11 CCSC       01:23.00
+   3 Anna Hughes           12 ACME       01:25.90
+   5 Mark Sullivan         12 ACME       01:24.10
+
+
+
+Event #9 Mixed 13 100m Breaststroke
+Lane  Name                Age Club      Seed Time
+-------------------------------------------------
+Heat#1 of 1
+   1 Natalie Smith         13 ACME       01:26.10
+   3 Ava Hernandez         13 NYAC       01:25.80
+   5 Connor Walker         13 NYAC       01:23.40
+
+
+
